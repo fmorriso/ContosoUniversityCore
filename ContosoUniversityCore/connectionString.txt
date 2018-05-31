@@ -1,0 +1,6 @@
+﻿userid: 
+DevAdmin
+
+$SqlAdminPassword = 'Super@Secret123'
+
+Server=tcp:fpmcontosouniversitycore.database.windows.net,1433;Initial Catalog=ContosoUniversityCore;Persist Security Info=False;User ID=DevAdmin;Password=Super@Secret123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
