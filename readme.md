@@ -11,3 +11,7 @@
 
 ## Entity Framework Core 2.1 Information
 [Announcement](https://blogs.msdn.microsoft.com/dotnet/2018/05/30/announcing-entity-framework-core-2-1/)
+
+[GitHub](https://github.com/aspnet/EntityFrameworkCore)
+
+[Documentation](https://docs.microsoft.com/en-us/ef/core/)
